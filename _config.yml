@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Seongsoo Jeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am a person who wants to become a backend developer."
+  location         : "Seoul, South Korea"
+  email            : "wjdtjdtn3010@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
